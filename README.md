@@ -8,17 +8,22 @@ Backend Repository: https://github.com/theomarentes/theoatrix-toolkit-backend
 The Theoatrix Toolkit will help users solve complex calculations with the goal of improving their experience playing RuneScape. It will also track the user’s progress in the game and track the prices of equipment using 3 different APIs.
 
 WiseOldMan API: https://docs.wiseoldman.net/
+
 Wiki GE API: https://prices.runescape.wiki/api/v1/osrs
+
 Official API: https://secure.runescape.com/m=hiscore_oldschool/
 
 Our database will store information from these APIs with periodic and user triggered scrapes to keep all data updated.
 
 ### App Structure
+
 Account Tracker
 - Wiseoldman api
+
 1-99 Guides 
 - Written (already written)
 - Videos (already created)
+  
 Calculators 
 - Gp/xp calculator
  - Wiki GE api
@@ -27,9 +32,11 @@ Calculators
 - Alch calculator
  - Dynamic page for each item
  - Wiki GE api
+
 Grand Exchange 
 - Wiki GE api
  - Hourly scrapes to db
+  
 Login tab
 - Favourite calculators
 - Favourite items
@@ -63,6 +70,10 @@ HD: Provides wireframes that show exceptional planning of project flow and struc
 ## Trello Board
 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.
 HD: Simple and clear standards for planning methodology chosen and adhered to
+
+### Initial Board
+![30-1-24 Trello Board](docs/30-1-24.jpg)
+Our initial board consisted of 
 
 ## Testing
 Development Testing
