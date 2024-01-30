@@ -5,6 +5,37 @@ Frontend Repository: https://github.com/theomarentes/theoatrix-toolkit-frontend
 Backend Repository: https://github.com/theomarentes/theoatrix-toolkit-backend 
 
 ## Website Description
+The Theoatrix Toolkit will help users solve complex calculations with the goal of improving their experience playing RuneScape. It will also track the user’s progress in the game and track the prices of equipment using 3 different APIs.
+
+WiseOldMan API: https://docs.wiseoldman.net/
+Wiki GE API: https://prices.runescape.wiki/api/v1/osrs
+Official API: https://secure.runescape.com/m=hiscore_oldschool/
+
+Our database will store information from these APIs with periodic and user triggered scrapes to keep all data updated.
+
+### App Structure
+Account Tracker
+- Wiseoldman api
+1-99 Guides 
+- Written (already written)
+- Videos (already created)
+Calculators 
+- Gp/xp calculator
+ - Wiki GE api
+- Time to max
+ - Wiseoldman api
+- Alch calculator
+ - Dynamic page for each item
+ - Wiki GE api
+Grand Exchange 
+- Wiki GE api
+ - Hourly scrapes to db
+Login tab
+- Favourite calculators
+- Favourite items
+- Favourite guides
+
+
 - Purpose
 - Functionality / features
 - Target audience
