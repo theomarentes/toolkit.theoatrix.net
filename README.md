@@ -71,7 +71,7 @@ HD: Provides wireframes that show exceptional planning of project flow and struc
 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.
 HD: Simple and clear standards for planning methodology chosen and adhered to
 
-### Initial Board
+### 30th January (Initial Board)
 ![30-1-24 Trello Board](docs/30-1-24.jpg)
 Our initial board consisted of 
 
