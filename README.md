@@ -4,6 +4,8 @@ Frontend Repository: https://github.com/theomarentes/theoatrix-toolkit-frontend
 
 Backend Repository: https://github.com/theomarentes/theoatrix-toolkit-backend 
 
+---
+
 ### Table Of Contents
 [Website Description](https://github.com/theomarentes/toolkit.theoatrix.net#website-description)
 
@@ -19,7 +21,7 @@ Backend Repository: https://github.com/theomarentes/theoatrix-toolkit-backend
 
 [Trello Board](https://github.com/theomarentes/toolkit.theoatrix.net#trello-board)
 
-
+---
 
 ## Website Description
 The Theoatrix Toolkit will allow users to solve complex calculations with the goal of improving their experience playing RuneScape.
@@ -59,6 +61,7 @@ My Account Page
 - Favourite items
 - Favourite guides
 
+
 ### Target Audience
 The Theoatrix Toolkit targets RuneScape players & Theoatrix's fans. The toolkit is for RuneScape enthusiasts seeking an all-in-one solution to enhance their gameplay and stay informed about the dynamic world of RuneScape.
 
@@ -77,13 +80,17 @@ The MERN stack will enable real-time updates on in-game progress and item prices
 ### Libraries Used
 Will be completed with Part B
 
+---
 
 ## Dataflow Diagram	
 HD: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
 
+---
 
 ## Application Architecture Diagram
 HD: Shows almost flawless understanding of the high level structure of the app
+
+---
 
 ## User Stories
 **Story:** As a low level RuneScape player, I want to see how long it will take me to get to level 99 in magic, so that I can estimate how many months before I can defeat this boss.
@@ -94,7 +101,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Edits:** 
 
-
+---
 
 **Story:** As a player with level 94 crafting, I want to read a crafting levelling guide, so that I can get to level 99 crafting as fast as possible.
 
@@ -104,7 +111,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Edits:** 
 
-
+---
 
 **Story:** As a player with level 68 smithing, I want to know what levelling method I should be using, so that I can earn coins while I level up.
 
@@ -114,7 +121,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Edits:** 
 
-
+---
 
 **Story:** As a player with 100 million gold coins, I want to know how much construction experience I can gain by spending it all, so that I can upgrade my player-owned-house.
 
@@ -124,7 +131,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Edits:** 
 
-
+---
 
 **Story:** As a player with 4300 hours played, I want to know how many hours are left until I reach level 99 in every skill, so that I can plan ahead with what skills to train.
 
@@ -134,7 +141,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Edits:** 
 
-
+---
 
 **Story:** As a player with 4 million bird's nests, I want to track the price of bird's nests, so that I can sell them when they increase by 10%.
 
@@ -144,7 +151,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Edits:**  Adding alerts for a 10% price increase can be a future feature.
 
-
+---
 
 **Story:** As a Theoatrix Fan, I want to save my favourite guides and calculators, so that I can use them in the future.
 
@@ -154,7 +161,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Edits:** 
 
-
+---
 
 ## Wireframes
 for multiple standard screen sizes, created using industry standard software
@@ -162,9 +169,13 @@ Utilise an industry standard program for creation of wireframes
 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.
 HD: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
 
+---
+
 ## Testing
 Development Testing
 Production Testing
+
+---
 
 ## Trello Board
 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.
