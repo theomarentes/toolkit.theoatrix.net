@@ -186,4 +186,6 @@ Our initial board consisted of the tasks required to complete Part A.
 ![30-1-24 Trello Board](docs/30-1-2024.jpg)
 
 
-
+### 31st January 
+Progress continued with Trello keeping us on track and ensuring smooth progress through the required tasks.
+![31-2-24 Trello Board](docs/31-1-2024.png)
