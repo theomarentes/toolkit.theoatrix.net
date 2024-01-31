@@ -80,17 +80,17 @@ The MERN stack will enable real-time updates on in-game progress and item prices
 ### Libraries Used
 Will be completed with Part B
 
----
+
 
 ## Dataflow Diagram	
 HD: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
 
----
+
 
 ## Application Architecture Diagram
 HD: Shows almost flawless understanding of the high level structure of the app
 
----
+
 
 ## User Stories
 **Story:** As a low level RuneScape player, I want to see how long it will take me to get to level 99 in magic, so that I can estimate how many months before I can defeat this boss.
@@ -161,7 +161,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Edits:** 
 
----
+
 
 ## Wireframes
 for multiple standard screen sizes, created using industry standard software
@@ -169,13 +169,13 @@ Utilise an industry standard program for creation of wireframes
 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.
 HD: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
 
----
+
 
 ## Testing
 Development Testing
 Production Testing
 
----
+
 
 ## Trello Board
 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.
