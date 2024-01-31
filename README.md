@@ -4,6 +4,23 @@ Frontend Repository: https://github.com/theomarentes/theoatrix-toolkit-frontend
 
 Backend Repository: https://github.com/theomarentes/theoatrix-toolkit-backend 
 
+### Table Of Contents
+[Website Description](https://github.com/theomarentes/toolkit.theoatrix.net#website-description)
+
+[Dataflow Diagram](https://github.com/theomarentes/toolkit.theoatrix.net#dataflow-diagram)
+
+[Application Architecture Diagram](https://github.com/theomarentes/toolkit.theoatrix.net#application-architecture-diagram)
+
+[User Stories](https://github.com/theomarentes/toolkit.theoatrix.net#user-stories)
+
+[Wireframes](https://github.com/theomarentes/toolkit.theoatrix.net#wireframes)
+
+[Testing](https://github.com/theomarentes/toolkit.theoatrix.net#testing)
+
+[Trello Board](https://github.com/theomarentes/toolkit.theoatrix.net#trello-board)
+
+
+
 ## Website Description
 The Theoatrix Toolkit will help users solve complex calculations with the goal of improving their experience playing RuneScape.
 
@@ -74,14 +91,17 @@ Utilise an industry standard program for creation of wireframes
 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.
 HD: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
 
+## Testing
+Development Testing
+Production Testing
+
 ## Trello Board
 Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.
 HD: Simple and clear standards for planning methodology chosen and adhered to
 
 ### 30th January (Initial Board)
-![30-1-24 Trello Board](docs/30-1-24.jpg)
-Our initial board consisted of 
+Our initial board consisted of the tasks required to complete Part A.
+![30-1-24 Trello Board](docs/30-1-2024.jpg)
 
-## Testing
-Development Testing
-Production Testing
+
+
