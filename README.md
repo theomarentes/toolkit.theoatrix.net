@@ -75,10 +75,7 @@ The frontend will leverage React, ensuring a responsive user interface.
 The MERN stack will enable real-time updates on in-game progress and item prices. As users explore Theoatrix's guide videos and written content, the MERN stack will give a dynamic experience. 
 
 ### Libraries Used
-In the development and production of the Theoatrix Toolkit, x libraries were used.
-| Library |     Description     |
-|---------|---------------------|
-| library |  long description   |
+Will be completed with Part B
 
 
 ## Dataflow Diagram	
@@ -89,8 +86,41 @@ HD: Provides dataflow diagram(s) that strictly follow the standard convensions t
 HD: Shows almost flawless understanding of the high level structure of the app
 
 ## User Stories
-Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation.
-HD: Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.
+**Story:** As a low level RuneScape player, I want to see how long it will take me to get to level 99 in magic, so that I can estimate how many months before I can defeat this boss.
+**Tookit Feature:** Account Tracker Page
+**Description:** The toolkit will allow a player to input their RuneScape name and it will show how long it takes to reach level 99 in any skill.
+**Edits:** 
+
+**Story:** As a player with level 94 crafting, I want to read a crafting levelling guide, so that I can get to level 99 crafting as fast as possible.
+**Tookit Feature:** Skill Guides Page
+**Feature:** The toolkit will include written guides for every skill in RuneScape, showing how to level up from 1 to 99 (already written).
+**Edits:** 
+
+**Story:** As a player with level 68 smithing, I want to know what levelling method I should be using, so that I can earn coins while I level up.
+**Tookit Feature:** Skill Guides Page
+**Feature:** The toolkit will include video guides for every skill in RuneScape, showing how to level up from 1 to 99 (already written).
+**Edits:** 
+
+**Story:** As a player with 100 million gold coins, I want to know how much construction experience I can gain by spending it all, so that I can upgrade my player-owned-house.
+**Tookit Feature:** Calculators Page -> GP/XP Calculator
+**Feature:** The toolkit's gp/xp calculators will allow users to view the cost of levelling. Gp/xp stands for gold pieces per experience point.
+**Edits:** 
+
+**Story:** As a player with 4300 hours played, I want to know how many hours are left until I reach level 99 in every skill, so that I can plan ahead with what skills to train.
+**Tookit Feature:** Calculators Page -> Time To Max
+**Feature:** The toolkit's time to max calculator will allow players to input their RuneScape name and see exactly how many hours remain before they reach level 99 in every skill if they play efficiently. This will be done using the WiseOldMan API.
+**Edits:** 
+
+**Story:** As a player with 4 million bird's nests, I want to track the price of bird's nests, so that I can sell them when they increase by 10%.
+**Tookit Feature:** Grand Exchange Page
+**Feature:** The toolkit's grand exchange feature will allow users to search for any RuneScape item to see the price graph and trade volume. This will be done with the Wiki GE API.
+**Edits:**  Adding alerts for a 10% price increase can be a future feature.
+
+**Story:** As a Theoatrix Fan, I want to save my favourite guides and calculators, so that I can use them in the future.
+**Tookit Feature:** My Account Page
+**Feature:** The toolkit will allow users to login and save calculators and guides to their account.
+**Edits:** 
+
 
 
 ## Wireframes
