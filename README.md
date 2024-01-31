@@ -51,6 +51,7 @@ Calculators Page
 Grand Exchange Page
 - Wiki GE API
 - Hourly scrapes to database
+- One page per item (dynamic)
   
 My Account Page
 - User login
