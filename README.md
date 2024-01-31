@@ -77,7 +77,7 @@ The MERN stack will enable real-time updates on in-game progress and item prices
 In the development and production of the Theoatrix Toolkit, x libraries were used.
 | Library |     Description     |
 |---------|---------------------|
-| nodemon | nodemon description |
+| library |  long description   |
 
 
 ## Dataflow Diagram	
