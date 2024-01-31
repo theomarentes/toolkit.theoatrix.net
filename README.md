@@ -5,7 +5,10 @@ Frontend Repository: https://github.com/theomarentes/theoatrix-toolkit-frontend
 Backend Repository: https://github.com/theomarentes/theoatrix-toolkit-backend 
 
 ## Website Description
-The Theoatrix Toolkit will help users solve complex calculations with the goal of improving their experience playing RuneScape. It will also track the user’s progress in the game and track the prices of equipment using 3 different APIs.
+The Theoatrix Toolkit will help users solve complex calculations with the goal of improving their experience playing RuneScape.
+
+### Purpose
+In RuneScape, players control a single character, enduring long grinds to increase their skill levels and aquire top tier equipment. The Theoatrix Toolkit will make difficult skill level calculations easier, it will track the user’s progress in the game and track the prices of equipment, using 3 different APIs.
 
 WiseOldMan API: https://docs.wiseoldman.net/
 
@@ -13,41 +16,45 @@ Wiki GE API: https://prices.runescape.wiki/api/v1/osrs
 
 Official API: https://secure.runescape.com/m=hiscore_oldschool/
 
-Our database will store information from these APIs with periodic and user triggered scrapes to keep all data updated.
+Our database will store information from these APIs with periodic and user triggered scrapes.
 
 ### App Structure
 
-Account Tracker
-- Wiseoldman api
+Account Tracker Page
+- WiseOldMan API
 
-1-99 Guides 
-- Written (already written)
-- Videos (already created)
-  
-Calculators 
-- Gp/xp calculator
- - Wiki GE api
-- Time to max
- - Wiseoldman api
-- Alch calculator
- - Dynamic page for each item
- - Wiki GE api
 
-Grand Exchange 
-- Wiki GE api
- - Hourly scrapes to db
+Skill Guides Page
+- Written Guides (already written)
+- Videos Guides (already created)
   
-Login tab
+Calculators Page
+- gp/xp calculator (Wiki GE API)
+- Time to Max (WiseOldMan API)
+- Alch calculator (dynamic pages for each item) (Wiki GE API) 
+
+Grand Exchange Page
+- Wiki GE API
+- Hourly scrapes to database
+  
+My Account Page
+- User login
 - Favourite calculators
 - Favourite items
 - Favourite guides
 
+### Target Audience
+The Theoatrix Toolkit targets RuneScape players & Theoatrix's fans. Since the toolkit is diverse, the tools are helpful for **all** RuneScape players. Over 300 million RuneScape accounts have been created.
 
-- Purpose
-- Functionality / features
-- Target audience
-- Tech stack
-- Libraries Used: Excellent use of libraries and a complete and detailed description of libraries used in the app
+### Tech Stack
+MERN Stack
+
+### Libraries Used
+In the development and production of the Theoatrix Toolkit, x libraries were used.
+| Library |     Description     |
+|---------|---------------------|
+| nodemon | nodemon description |
+
 
 ## Dataflow Diagram	
 HD: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
