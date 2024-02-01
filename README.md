@@ -45,9 +45,11 @@ Level 1-99 Guides Page
 - Links to video guides
   
 Calculators Page
-- gp/xp calculator (Wiki GE API)
 - Time to Max (WiseOldMan API)
-- Alch calculator (dynamic pages for each item) (Wiki GE API) 
+- Alch calculator (dynamic pages for each item) (Wiki GE API)
+
+Simulators Page
+- Drop Simulator (OSRSBox JSON)
 
 Grand Exchange Page
 - Wiki GE API
@@ -128,7 +130,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Feature:** The toolkit's gp/xp calculators will allow users to view the cost of levelling. Gp/xp stands for gold pieces per experience point.
 
-**Edits:** 
+**Edits:** Removed GP/XP Calculator due to large amount of data required to function.
 
 ---
 
@@ -139,6 +141,16 @@ HD: Shows almost flawless understanding of the high level structure of the app
 **Feature:** The toolkit's time to max calculator will allow players to input their RuneScape name and see exactly how many hours remain before they reach level 99 in every skill if they play efficiently. This will be done using the WiseOldMan API.
 
 **Edits:** 
+
+---
+
+**Story:** As a player with high combat levels, I want to see what drops I'll get from a boss, so that I can see how much money I'm going to make.
+
+**Tookit Feature:** Simulators Page
+
+**Feature:** The toolkit's simulators will display drops from all bosses and monsters so that the user can simulate the potential loot.
+
+**Edits:**  
 
 ---
 
