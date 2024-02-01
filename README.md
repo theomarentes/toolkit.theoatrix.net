@@ -42,8 +42,7 @@ Account Tracker Page
 - WiseOldMan API
 
 Skill Guides Page
-- Written Guides (already written)
-- Videos Guides (already created)
+- Links to video guides
   
 Calculators Page
 - gp/xp calculator (Wiki GE API)
