@@ -41,7 +41,7 @@ Our database will store information from these APIs with periodic and user trigg
 Account Tracker Page
 - WiseOldMan API
 
-Skill Guides Page
+Level 1-99 Guides Page
 - Links to video guides
   
 Calculators Page
