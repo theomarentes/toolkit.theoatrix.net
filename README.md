@@ -185,12 +185,12 @@ HD: Provides wireframes that show exceptional planning of project flow and struc
 ## Testing
 Development Testing
 Production Testing
+Will be completed with Part B
 
 
 
 ## Trello Board
-Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.
-HD: Simple and clear standards for planning methodology chosen and adhered to
+Our chosen planning methodology involved using Trello to track tasks.
 
 ### 30th January (Initial Board)
 Our initial board consisted of the tasks required to complete Part A.
