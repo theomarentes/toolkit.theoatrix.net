@@ -150,7 +150,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 **Feature:** The toolkit's simulators will display drops from all bosses and monsters so that the user can simulate the potential loot.
 
-**Edits:**  
+**Edits:**  User Story added 2/2/24 - Added simulators functionality to plan.
 
 ---
 
