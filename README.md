@@ -83,7 +83,7 @@ The MERN stack will enable real-time updates on in-game progress and item prices
 
 
 ## Application Architecture Diagram
-HD: Shows almost flawless understanding of the high level structure of the app
+![Application Architecture Diagram](docs/application-architecture.jpg)
 
 
 
