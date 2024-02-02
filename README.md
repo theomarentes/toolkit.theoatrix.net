@@ -9,13 +9,15 @@ Backend Repository: https://github.com/theomarentes/theoatrix-toolkit-backend
 ### Table Of Contents
 [Website Description](https://github.com/theomarentes/toolkit.theoatrix.net#website-description)
 
-[Dataflow Diagram](https://github.com/theomarentes/toolkit.theoatrix.net#dataflow-diagram)
-
 [Application Architecture Diagram](https://github.com/theomarentes/toolkit.theoatrix.net#application-architecture-diagram)
+
+[Dataflow Diagram](https://github.com/theomarentes/toolkit.theoatrix.net#dataflow-diagram)
 
 [User Stories](https://github.com/theomarentes/toolkit.theoatrix.net#user-stories)
 
 [Wireframes](https://github.com/theomarentes/toolkit.theoatrix.net#wireframes)
+
+[Libraries Used](https://github.com/theomarentes/toolkit.theoatrix.net#libraries-used)
 
 [Testing](https://github.com/theomarentes/toolkit.theoatrix.net#testing)
 
@@ -78,8 +80,12 @@ Express.js will facilitate backend development, integrating with Node.js for ser
 The frontend will leverage React, ensuring a responsive user interface.
 The MERN stack will enable real-time updates on in-game progress and item prices. As users explore Theoatrix's guide videos and written content, the MERN stack will give a dynamic experience. 
 
-### Libraries Used
-Will be completed with Part B
+
+
+## Application Architecture Diagram
+HD: Shows almost flawless understanding of the high level structure of the app
+
+
 
 
 
@@ -87,9 +93,6 @@ Will be completed with Part B
 HD: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
 
 
-
-## Application Architecture Diagram
-HD: Shows almost flawless understanding of the high level structure of the app
 
 
 
@@ -180,6 +183,8 @@ Utilise an industry standard program for creation of wireframes
 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.
 HD: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
 
+## Libraries Used
+Will be completed with Part B
 
 
 ## Testing
