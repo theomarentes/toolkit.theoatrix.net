@@ -83,6 +83,7 @@ The MERN stack will enable real-time updates on in-game progress and item prices
 
 
 ## Application Architecture Diagram
+Below is the application architecture diagram for the Theoatrix Toolkit - click the image to view the englarged version.
 ![Application Architecture Diagram](docs/app-architecture-diagram.jpg)
 
 
