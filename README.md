@@ -205,4 +205,8 @@ Our initial board consisted of the tasks required to complete Part A.
 
 ### 31st January 
 Progress continued with Trello keeping us on track and ensuring smooth progress through the required tasks.
-![31-2-24 Trello Board](docs/31-1-2024.png)
+![31-1-24 Trello Board](docs/31-1-2024.png)
+
+### 2nd February
+The website description and app architecture diagram was completed.
+![2-2-24 Trello Board](docs/2-2-2024.jpg)
