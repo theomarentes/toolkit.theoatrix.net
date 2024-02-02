@@ -93,7 +93,7 @@ HD: Shows almost flawless understanding of the high level structure of the app
 
 
 
-> ## User Stories
+## User Stories
 **Story:** As a low level RuneScape player, I want to see how long it will take me to get to level 99 in magic, so that I can estimate how many months before I can defeat this boss.
 
 **Tookit Feature:** Account Tracker Page
