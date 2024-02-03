@@ -25,6 +25,8 @@ Backend Repository: https://github.com/theomarentes/theoatrix-toolkit-backend
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Website Description
 The Theoatrix Toolkit will allow users to solve complex calculations with the goal of improving their experience playing RuneScape.
 
@@ -38,6 +40,8 @@ Wiki GE API: https://prices.runescape.wiki/api/v1/osrs
 Official API: https://secure.runescape.com/m=hiscore_oldschool/
 
 Our database will store information from these APIs with periodic and user triggered scrapes.
+
+<div style="page-break-after: always;"></div>
 
 ### App Structure
 Account Tracker Page
@@ -64,6 +68,7 @@ My Account Page
 - Favourite items
 - Favourite guides
 
+<div style="page-break-after: always;"></div>
 
 ### Target Audience
 The Theoatrix Toolkit targets RuneScape players & Theoatrix's fans. The toolkit is for RuneScape enthusiasts seeking an all-in-one solution to enhance their gameplay and stay informed about the dynamic world of RuneScape.
@@ -80,21 +85,25 @@ Express.js will facilitate backend development, integrating with Node.js for ser
 The frontend will leverage React, ensuring a responsive user interface.
 The MERN stack will enable real-time updates on in-game progress and item prices. As users explore Theoatrix's guide videos and written content, the MERN stack will give a dynamic experience. 
 
-
+<div style="page-break-after: always;"></div>
 
 ## Application Architecture Diagram
 Below is the application architecture diagram for the Theoatrix Toolkit - click the image to view the englarged version.
 ![Application Architecture Diagram](docs/app-architecture-diagram.jpg)
 
 
-
+<div style="page-break-after: always;"></div>
 
 
 ## Dataflow Diagram	
-HD: Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
+Thirteen dataflow diagrams were created to support the development of the Theoatrix Toolkit. Click the image to enlarge the Dataflow Diagram.
+
+![Dataflow For Theoatrix Toolkit - 1st Image](docs/dataflow1.png)
+
+![Dataflow For Theoatrix Toolkit - 2nd Image](docs/dataflow2.png)
 
 
-
+<div style="page-break-after: always;"></div>
 
 
 ## User Stories
@@ -176,13 +185,36 @@ HD: Provides dataflow diagram(s) that strictly follow the standard convensions t
 
 **Edits:** 
 
-
+<div style="page-break-after: always;"></div>
 
 ## Wireframes
-for multiple standard screen sizes, created using industry standard software
-Utilise an industry standard program for creation of wireframes
-Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.
-HD: Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
+Balsamiq was used to create the wireframes for the Theoatrix Toolkit. The software provides a professional and user-friendly interface with a high number of overlays.
+
+### Page Layout Wireframes
+
+### Home Page Wireframes
+![Home Page Wireframes](docs/wireframe-home.jpg)
+
+### Account Tracker Page Wireframes
+
+### 1-99 Guides Page Wireframes
+
+### Calculators Page Wireframes
+
+### Time To Max Calculator Wireframes
+
+### Alchemy Calculator Wireframes
+
+### Drop Simulator Wireframes
+
+### Grand Exchange Page Wireframes
+
+### Grand Exchange Item Page Wireframes
+
+### Account Page Wireframes
+
+
+<div style="page-break-after: always;"></div>
 
 ## Libraries Used
 Will be completed with Part B
@@ -193,7 +225,7 @@ Development Testing
 Production Testing
 Will be completed with Part B
 
-
+<div style="page-break-after: always;"></div>
 
 ## Trello Board
 Our chosen planning methodology involved using Trello to track tasks.
@@ -210,3 +242,6 @@ Progress continued with Trello keeping us on track and ensuring smooth progress 
 ### 2nd February
 The website description and app architecture diagram was completed.
 ![2-2-24 Trello Board](docs/2-2-2024.jpg)
+
+### 4th February
+
