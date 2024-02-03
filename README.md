@@ -83,8 +83,15 @@ The MERN stack will enable real-time updates on in-game progress and item prices
 
 
 ## Application Architecture Diagram
-Below is the application architecture diagram for the Theoatrix Toolkit - click the image to view the englarged version.
+
 ![Application Architecture Diagram](docs/app-architecture-diagram.jpg)
+
+The theoatrix toolkit's architecture is designed to provide Runescape players with a seamless and engaging experience, at the forfront are the clients, accessing the toolkit through web browsers, navigathing through progress trackers and guide. The frontend being powered by ReactJS ensures a dynamic and responsive user interface with modular components for various toolkit selections.
+
+The deployment process is streamlined through netlify, offering a continuous inegration and deployment for the React frontend and Express backend. Express.js plays a pivotal role, managing API routes and serving as the bridge between the React frontend and MongoDB database. MongoDB serves as the core database, storing user progress, equipment data and providing a flexible but most importantly scalable solution.
+
+MongoDB Atlas serves as the cloud-based hosting solution, offering scalability, reliability and global distribution for efficient data management. External APIs play a distinct role in enhancing the user experience. These APIs provide real-time skill tracking, live pricing data and skill guides, enriching the toolkit's features.
+
 
 
 
