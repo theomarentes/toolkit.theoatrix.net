@@ -198,28 +198,31 @@ Thirteen dataflow diagrams were created to support the development of the Theoat
 Balsamiq was used to create the wireframes for the Theoatrix Toolkit. The software provides a professional and user-friendly interface with a high number of overlays.
 
 ### Page Layout Wireframes
-
+![Page Layout Wireframes](/docs/wireframe-page-layout.png)
 ### Home Page Wireframes
 ![Home Page Wireframes](docs/wireframe-home.jpg)
 
 ### Account Tracker Page Wireframes
-
+![Account Tracker Wireframes](/docs/wireframe-account-tracker-1.png)
+![Account Tracker Wireframes](/docs/wireframe-account-tracker-2.png)
 ### 1-99 Guides Page Wireframes
-
+![1-99 Guides Wireframes](docs/wireframe-1-99-guide.png)
 ### Calculators Page Wireframes
-
+![Calculator Page Wireframes](docs/wireframe-calculator.png)
 ### Time To Max Calculator Wireframes
-
+![Time To Max Wireframes](/docs/wireframe-time-to-max.png)
 ### Alchemy Calculator Wireframes
-
+![High Alchemy Calculator Wireframes](/docs/wireframe-alchemy-calculator.png)
 ### Drop Simulator Wireframes
-
+![Drop Simulator Wireframes](/docs/wireframe-drop-simulator.png)
 ### Grand Exchange Page Wireframes
-
+![Grand Exchange Wireframes](/docs/wireframe-grand-exchange.png)
 ### Grand Exchange Item Page Wireframes
-
+![Grand Exchange Item Wireframes](/docs/wireframe-grand-exchange-item.png)
 ### Account Page Wireframes
-
+![Account Page Wireframes](/docs/wireframe-account-page-1.png)
+![Account Page Wireframes](/docs/wireframe-account-page-2.png)
+![Account Page Wireframes](/docs/wireframe-account-page-3.png)
 
 <div style="page-break-after: always;"></div>
 
