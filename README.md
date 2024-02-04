@@ -251,4 +251,5 @@ The website description and app architecture diagram was completed.
 ![2-2-24 Trello Board](docs/2-2-2024.jpg)
 
 ### 4th February
-
+The dataflow diagrams, user stories and wireframes were completed.
+![4-2-24 Trello Board](docs/4-2-2024.jpg)
