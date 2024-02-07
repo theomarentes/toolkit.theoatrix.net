@@ -160,7 +160,7 @@ Thirteen dataflow diagrams were created to support the development of the Theoat
 
 **Feature:** The toolkit's time to max calculator will allow players to input their RuneScape name and see exactly how many hours remain before they reach level 99 in every skill if they play efficiently. This will be done using the WiseOldMan API.
 
-**Edits:** 
+**Edits:** Can also show the time to 200 million experience using the WiseOldMan API.
 
 ---
 
@@ -258,8 +258,10 @@ The dataflow diagrams, user stories and wireframes were completed.
 ![4-2-24 Trello Board](docs/4-2-2024.jpg)
 
 ### 6th February
+Homepage development began while the Mongo Atlas database was set up.
 ![6-2-24 Trello Board](docs/6-2-2024.jpg)
 
 
 ### 8th February
+The home page and time to max page was completed and ready for review.
 ![8-2-24 Trello Board](docs/8-2-2024.jpg)
