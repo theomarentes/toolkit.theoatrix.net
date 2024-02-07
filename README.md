@@ -258,4 +258,8 @@ The dataflow diagrams, user stories and wireframes were completed.
 ![4-2-24 Trello Board](docs/4-2-2024.jpg)
 
 ### 6th February
-![4-2-24 Trello Board](docs/6-2-2024.jpg)
+![6-2-24 Trello Board](docs/6-2-2024.jpg)
+
+
+### 8th February
+![8-2-24 Trello Board](docs/8-2-2024.jpg)
