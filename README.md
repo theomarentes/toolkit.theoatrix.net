@@ -265,3 +265,7 @@ Homepage development began while the Mongo Atlas database was set up.
 ### 8th February
 The home page and time to max page was completed and ready for review.
 ![8-2-24 Trello Board](docs/8-2-2024.jpg)
+
+### 11th February
+The my account page and user functionality was added.
+![11-2-24 Trello Board](docs/11-2-2024.jpg)
