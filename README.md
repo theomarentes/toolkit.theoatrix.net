@@ -269,3 +269,7 @@ The home page and time to max page was completed and ready for review.
 ### 11th February
 The my account page and user functionality was added.
 ![11-2-24 Trello Board](docs/11-2-2024.jpg)
+
+### 15th February
+Drop simulator page completed and the Grand Exchange page plus dynamic page are in progress.
+![15-2-24 Trello Board](docs/15-2-2024.jpg)
