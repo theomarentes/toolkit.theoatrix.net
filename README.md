@@ -227,13 +227,75 @@ Balsamiq was used to create the wireframes for the Theoatrix Toolkit. The softwa
 <div style="page-break-after: always;"></div>
 
 ## Libraries Used
-Will be completed with Part B
+### Backend Dependencies
+"dependencies": 
+    "@wise-old-man/utils": "^3.1.14",
+    "axios": "^1.6.7",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1"
+  "devDependencies":
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.3",
+    "supertest": "^6.3.4"
 
+### Frontend Dependencies
+"dependencies": 
+    "@testing-library/jest-dom": "^5.17.0",
+    "bootstrap": "^5.3.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+"devDependencies": 
+    "@babel/preset-env": "^7.23.9",
+    "@babel/preset-react": "^7.23.3",
+    "@testing-library/react": "^14.2.1",
+    "@testing-library/user-event": "^14.5.2",
+    "jest": "^27.5.1",
+    "jest-fetch-mock": "^3.0.3",
+    "supertest": "^6.3.4"
+
+<div style="page-break-after: always;"></div>
 
 ## Testing
-Development Testing
-Production Testing
-Will be completed with Part B
+Tests were completed with Jest and Supertest.
+### Frontend Testing
+![Frontend Testing Results](/docs/tests-frontend.jpg)
+
+### Backend Testing
+![Backend Testing Results](/docs/tests-backend.jpg)
+
+### Development Testing
+During development, the website was made available to a small group of Theoatrix's fans who were connected with the Theoatrix clan. 
+
+RuneScape Name: Fe Beug
+Website Feature: Account Tracker
+Testing Comments: "its cool to see all of my bossing killcounts. the menu on the left derails flow when scrolling, loading time took slightly long"
+
+
+RuneScape Name: Brewmate7
+Website Feature: Account Tracker
+Testing Comments: "I was able to enter my runescape name and find my stats"
+
+
+RuneScape Name: sober maybe
+Website Feature: Drop Simulator
+Testing Comments: "i like the idea - some of the item icons arent showing for me"
+
+
+RuneScape Name: Zeixic
+Website Feature: Grand Exchange
+Testing Comments: "I never knew there was 4 items above max cash. I think this has a lot of potential."
+
+### Production Testing
+
 
 <div style="page-break-after: always;"></div>
 
