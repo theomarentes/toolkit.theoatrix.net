@@ -228,15 +228,16 @@ Balsamiq was used to create the wireframes for the Theoatrix Toolkit. The softwa
 
 ## Libraries Used
 ### Backend Dependencies
+- **express**: Serves as the web application framework for building the toolkit's server-side logic, including API endpoints and middleware.
+- **helmet**: Increases security by adding various HTTP headers to protect against common web vulnerabilities and attacks.
+- **jsonwebtoken**: Implements JSON Web Tokens for secure user authentication and session management across the toolkit's services.
+- **mongoose**: Provides a MongoDB object modeling tool to simplify interactions with the database and enforce schema structures.
 - **@wise-old-man/utils**: Utilized for integrating Old School RuneScape data processing and analysis utilities into the toolkit.
 - **axios**: Employed to make HTTP requests to external APIs, including Old School RuneScape's official data sources and other third-party services.
 - **bcrypt**: Used to securely hash and compare user passwords, enhancing the security of user account management within the toolkit.
 - **cors**: Enables the toolkit's backend services to accept cross-origin requests, facilitating communication between the client-side application and the server.
 - **dotenv**: Manages environment variables, allowing secure and flexible configuration of the toolkit's backend environment.
-- **express**: Serves as the web application framework for building the toolkit's server-side logic, including API endpoints and middleware.
-- **helmet**: Increases security by adding various HTTP headers to protect against common web vulnerabilities and attacks.
-- **jsonwebtoken**: Implements JSON Web Tokens for secure user authentication and session management across the toolkit's services.
-- **mongoose**: Provides a MongoDB object modeling tool to simplify interactions with the database and enforce schema structures.
+
 
 #### Backend DevDependencies
 - **jest**: A testing framework used for writing and running unit tests to ensure the reliability and correctness of the toolkit's backend logic.
@@ -244,8 +245,6 @@ Balsamiq was used to create the wireframes for the Theoatrix Toolkit. The softwa
 - **supertest**: Facilitates testing of HTTP endpoints, allowing for automated testing of Express routes to ensure API reliability and correctness.
 
 ### Frontend Dependencies
-- **@testing-library/jest-dom**: Provides custom matchers for Jest, making it easier to assert various conditions in the Theoatrix Toolkit's DOM elements during testing.
-- **bootstrap**: Used to style the Theoatrix Toolkit's frontend, offering a wide range of responsive design components for a polished UI/UX.
 - **react**: A JavaScript library for building user interfaces, serving as the backbone for developing the Theoatrix Toolkit's dynamic and interactive web pages.
 - **react-bootstrap**: Combines Bootstrap styling with React components, facilitating the development of the Theoatrix Toolkit's UI with predefined, stylized components.
 - **react-dom**: Offers DOM-specific methods necessary for the Theoatrix Toolkit to render UI components efficiently in the web browser.
@@ -254,18 +253,20 @@ Balsamiq was used to create the wireframes for the Theoatrix Toolkit. The softwa
 - **web-vitals**: Assists in measuring the performance of the Theoatrix Toolkit's web pages, focusing on user experience metrics like loading time, interactivity, and visual stability.
 
 #### Frontend DevDependencies
+- **jest**: A JavaScript testing framework used to create and run tests for the Theoatrix Toolkit's codebase, ensuring reliability and functionality.
+- **jest-fetch-mock**: Mocks the global fetch API in Jest tests, allowing for testing of asynchronous HTTP requests in the Theoatrix Toolkit without making actual network calls.
+- **@testing-library/jest-dom**: Provides custom matchers for Jest, making it easier to assert various conditions in the Theoatrix Toolkit's DOM elements during testing.
+- **supertest**: A library for testing HTTP assertions, making it easy to test API endpoints of the Theoatrix Toolkit's backend services directly.
 - **@babel/preset-env**: Automatically compiles JavaScript ES6+ code down to ES5 for broader browser compatibility in the Theoatrix Toolkit.
 - **@babel/preset-react**: Transforms JSX syntax into JavaScript, allowing the Theoatrix Toolkit's React components to be understood by browsers.
 - **@testing-library/react**: Facilitates unit and integration testing of React components in the Theoatrix Toolkit, simulating user interactions within a virtual DOM environment.
 - **@testing-library/user-event**: Simulates real user actions (e.g., clicking, typing) in web elements, enhancing testing accuracy for the Theoatrix Toolkit.
-- **jest**: A JavaScript testing framework used to create and run tests for the Theoatrix Toolkit's codebase, ensuring reliability and functionality.
-- **jest-fetch-mock**: Mocks the global fetch API in Jest tests, allowing for testing of asynchronous HTTP requests in the Theoatrix Toolkit without making actual network calls.
-- **supertest**: A library for testing HTTP assertions, making it easy to test API endpoints of the Theoatrix Toolkit's backend services directly.
+
 
 <div style="page-break-after: always;"></div>
 
 ## Testing
-Tests were completed with Jest and Supertest.
+Tests were completed with Jest, Babel and Supertest.
 ### Frontend Testing
 ![Frontend Testing Results](/docs/tests-frontend.jpg)
 
@@ -310,7 +311,14 @@ During development, the website was made available to a small group of Theoatrix
 - Testing Comments: "best tool ive seen for seeing your distance to max cape"
 
 ### Production Testing
+For production testing, the toolkit was promoted in the Theoatrix clan chat to more users.
 
+- RuneScape Name: 
+- Website Feature: 
+- Testing Comments:
+![RSN Testing Screenshot](/docs/tests-backend.jpg)
+
+---
 
 <div style="page-break-after: always;"></div>
 
