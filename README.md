@@ -120,7 +120,7 @@ Thirteen dataflow diagrams were created to support the development of the Theoat
 
 **Description:** The toolkit will allow a player to input their RuneScape name and it will show how long it takes to reach level 99 in any skill.
 
-**Edits:** 
+**Edits:** The toolkit will show the percentage to level 99 however requires too much extra input to work out the time.
 
 ---
 
@@ -130,7 +130,7 @@ Thirteen dataflow diagrams were created to support the development of the Theoat
 
 **Feature:** The toolkit will include written guides for every skill in RuneScape, showing how to level up from 1 to 99 (already written).
 
-**Edits:** 
+**Edits:** We decided against adding the skill guides page simply because those guides are already displayed on the base website (theoatrix.net).
 
 ---
 
@@ -140,7 +140,7 @@ Thirteen dataflow diagrams were created to support the development of the Theoat
 
 **Feature:** The toolkit will include video guides for every skill in RuneScape, showing how to level up from 1 to 99 (already written).
 
-**Edits:** 
+**Edits:** We decided against adding the skill guides page simply because those guides are already displayed on the base website (theoatrix.net).
 
 ---
 
@@ -190,7 +190,7 @@ Thirteen dataflow diagrams were created to support the development of the Theoat
 
 **Feature:** The toolkit will allow users to login and save calculators and guides to their account.
 
-**Edits:** 
+**Edits:** This feature could use local storage.
 
 <div style="page-break-after: always;"></div>
 
@@ -228,39 +228,39 @@ Balsamiq was used to create the wireframes for the Theoatrix Toolkit. The softwa
 
 ## Libraries Used
 ### Backend Dependencies
-"dependencies": 
-    "@wise-old-man/utils": "^3.1.14",
-    "axios": "^1.6.7",
-    "bcrypt": "^5.1.1",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.1",
-    "express": "^4.18.2",
-    "helmet": "^7.1.0",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.1.1"
-  "devDependencies":
-    "jest": "^29.7.0",
-    "nodemon": "^3.0.3",
-    "supertest": "^6.3.4"
+- **@wise-old-man/utils**: Utilized for integrating Old School RuneScape data processing and analysis utilities into the toolkit.
+- **axios**: Employed to make HTTP requests to external APIs, including Old School RuneScape's official data sources and other third-party services.
+- **bcrypt**: Used to securely hash and compare user passwords, enhancing the security of user account management within the toolkit.
+- **cors**: Enables the toolkit's backend services to accept cross-origin requests, facilitating communication between the client-side application and the server.
+- **dotenv**: Manages environment variables, allowing secure and flexible configuration of the toolkit's backend environment.
+- **express**: Serves as the web application framework for building the toolkit's server-side logic, including API endpoints and middleware.
+- **helmet**: Increases security by adding various HTTP headers to protect against common web vulnerabilities and attacks.
+- **jsonwebtoken**: Implements JSON Web Tokens for secure user authentication and session management across the toolkit's services.
+- **mongoose**: Provides a MongoDB object modeling tool to simplify interactions with the database and enforce schema structures.
+
+#### Backend DevDependencies
+- **jest**: A testing framework used for writing and running unit tests to ensure the reliability and correctness of the toolkit's backend logic.
+- **nodemon**: Automates the process of restarting the node application when file changes in the directory are detected, improving development efficiency.
+- **supertest**: Facilitates testing of HTTP endpoints, allowing for automated testing of Express routes to ensure API reliability and correctness.
 
 ### Frontend Dependencies
-"dependencies": 
-    "@testing-library/jest-dom": "^5.17.0",
-    "bootstrap": "^5.3.2",
-    "react": "^18.2.0",
-    "react-bootstrap": "^2.10.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.22.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-"devDependencies": 
-    "@babel/preset-env": "^7.23.9",
-    "@babel/preset-react": "^7.23.3",
-    "@testing-library/react": "^14.2.1",
-    "@testing-library/user-event": "^14.5.2",
-    "jest": "^27.5.1",
-    "jest-fetch-mock": "^3.0.3",
-    "supertest": "^6.3.4"
+- **@testing-library/jest-dom**: Provides custom matchers for Jest, making it easier to assert various conditions in the Theoatrix Toolkit's DOM elements during testing.
+- **bootstrap**: Used to style the Theoatrix Toolkit's frontend, offering a wide range of responsive design components for a polished UI/UX.
+- **react**: A JavaScript library for building user interfaces, serving as the backbone for developing the Theoatrix Toolkit's dynamic and interactive web pages.
+- **react-bootstrap**: Combines Bootstrap styling with React components, facilitating the development of the Theoatrix Toolkit's UI with predefined, stylized components.
+- **react-dom**: Offers DOM-specific methods necessary for the Theoatrix Toolkit to render UI components efficiently in the web browser.
+- **react-router-dom**: Manages navigation and routing in the Theoatrix Toolkit, enabling seamless transitions between different views without reloading the page.
+- **react-scripts**: Provides a set of scripts from Create React App to automate the build process, testing, and setting up the development environment for the Theoatrix Toolkit.
+- **web-vitals**: Assists in measuring the performance of the Theoatrix Toolkit's web pages, focusing on user experience metrics like loading time, interactivity, and visual stability.
+
+#### Frontend DevDependencies
+- **@babel/preset-env**: Automatically compiles JavaScript ES6+ code down to ES5 for broader browser compatibility in the Theoatrix Toolkit.
+- **@babel/preset-react**: Transforms JSX syntax into JavaScript, allowing the Theoatrix Toolkit's React components to be understood by browsers.
+- **@testing-library/react**: Facilitates unit and integration testing of React components in the Theoatrix Toolkit, simulating user interactions within a virtual DOM environment.
+- **@testing-library/user-event**: Simulates real user actions (e.g., clicking, typing) in web elements, enhancing testing accuracy for the Theoatrix Toolkit.
+- **jest**: A JavaScript testing framework used to create and run tests for the Theoatrix Toolkit's codebase, ensuring reliability and functionality.
+- **jest-fetch-mock**: Mocks the global fetch API in Jest tests, allowing for testing of asynchronous HTTP requests in the Theoatrix Toolkit without making actual network calls.
+- **supertest**: A library for testing HTTP assertions, making it easy to test API endpoints of the Theoatrix Toolkit's backend services directly.
 
 <div style="page-break-after: always;"></div>
 
@@ -275,24 +275,39 @@ Tests were completed with Jest and Supertest.
 ### Development Testing
 During development, the website was made available to a small group of Theoatrix's fans who were connected with the Theoatrix clan. 
 
-RuneScape Name: Fe Beug
-Website Feature: Account Tracker
-Testing Comments: "its cool to see all of my bossing killcounts. the menu on the left derails flow when scrolling, loading time took slightly long"
+- RuneScape Name: Fe Beug
+- Website Feature: Account Tracker
+- Testing Comments: "its cool to see all of my bossing killcounts. the menu on the left derails flow when scrolling, loading time took slightly long"
 
+---
 
-RuneScape Name: Brewmate7
-Website Feature: Account Tracker
-Testing Comments: "I was able to enter my runescape name and find my stats"
+- RuneScape Name: Brewmate7
+- Website Feature: Account Tracker
+- Testing Comments: "I was able to enter my runescape name and find my stats"
 
+---
 
-RuneScape Name: sober maybe
-Website Feature: Drop Simulator
-Testing Comments: "i like the idea - some of the item icons arent showing for me"
+- RuneScape Name: sober maybe
+- Website Feature: Drop Simulator
+- Testing Comments: "i like the idea - some of the item icons arent showing for me"
+  
+---
 
+- RuneScape Name: Zeixic
+- Website Feature: Grand Exchange
+- Testing Comments: "I never knew there was 4 items above max cash. I think this has a lot of potential."
 
-RuneScape Name: Zeixic
-Website Feature: Grand Exchange
-Testing Comments: "I never knew there was 4 items above max cash. I think this has a lot of potential."
+---
+
+- RuneScape Name: d13faster
+- Website Feature: Time To Max
+- Testing Comments: "this information is so useful. maybe you could add a breakdown of the time to max"
+  
+---
+
+- RuneScape Name: Datuk
+- Website Feature: Time To Max
+- Testing Comments: "best tool ive seen for seeing your distance to max cape"
 
 ### Production Testing
 
