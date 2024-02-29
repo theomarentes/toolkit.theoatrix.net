@@ -327,9 +327,9 @@ For production testing, the toolkit was promoted in the Theoatrix clan chat to m
   
 ---
 
-- RuneScape Name: 
-- Testing Video: 
-- Testing Comments:
+- RuneScape Name: Story Siren
+- Testing Video: https://www.youtube.com/watch?v=SEhkY-HJR-M
+- Testing Comments: "This site is very easy to use and makes account creation simple. The aesthetic is so clean, and the site is easy to navigate and access information. It can be confusing trying to find up-to-date and reliable information on your own, but this cuts out all the noise. It has saved me a ton of time scouring for information on Google myself. But my favorite feature must be the Drop Simulator. This simulator has changed the game, it can calculate and visualize the odds of every confrontation in seconds. I also trust that the calculator hasn’t been manipulated in any way. I have never seen this feature anywhere else. Overall, I highly recommend this toolkit."
 
 <div style="page-break-after: always;"></div>
 
