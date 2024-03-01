@@ -331,6 +331,13 @@ For production testing, the toolkit was promoted in the Theoatrix clan chat to m
 - Testing Video: https://www.youtube.com/watch?v=SEhkY-HJR-M
 - Testing Comments: "This site is very easy to use and makes account creation simple. The aesthetic is so clean, and the site is easy to navigate and access information. It can be confusing trying to find up-to-date and reliable information on your own, but this cuts out all the noise. It has saved me a ton of time scouring for information on Google myself. But my favorite feature must be the Drop Simulator. This simulator has changed the game, it can calculate and visualize the odds of every confrontation in seconds. I also trust that the calculator hasn’t been manipulated in any way. I have never seen this feature anywhere else. Overall, I highly recommend this toolkit."
 
+
+---
+
+- RuneScape Name: Staino
+- Testing Video: https://www.youtube.com/watch?v=uN4D187Glbc
+- Testing Comments: "Website was intuitive and easy to navigate. The use of icons from the game make it quick and easy to understand the vast amounts of information provided. The most useful features I believe are the drop simulator and the grand exchange. This information would usually take some digging around on different website searches if you are researching which boss runs to do, but is now consolidated into one easy search. All links from the home screen worked smoothly and navigated to the indicated sections. The only thing I could think of to improve the grand exchange functionality would be to allow it to return multiple results, i.e when you search for dragon scimitar it returns the result for dragon scimitar however, if you only search scimitar it does not return any results, as opposed to listing all available scimitars. Also, maybe a confirmation for the password when creating an account. I suck at typing and pretty sure I  typed my password in incorrectly and now can't log back in as I don't know what error I made."
+
 <div style="page-break-after: always;"></div>
 
 ## Trello Board
